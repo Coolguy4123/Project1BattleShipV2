@@ -8,7 +8,7 @@ Purpose: Given 4 ships with different size, the player must sink all the enemy's
 - The player and the enemy(computer) will take turn choosing points on the grid
 - Once a party loses, the player is given the option to print out every moves that both parties performed in that game
   
-Differences between Battleship V2 and Battleship V1
+### <ins> Differences between Battleship V2 and Battleship V1 </ins>
 - V2 heavily uitilizes data structures, mainly recursions and trees. A few C++ STL functions are used also
 - Improved layout of the grid, such as spacings to make it more tidy
 - Added a ship counter to let the player know how many ships are left
