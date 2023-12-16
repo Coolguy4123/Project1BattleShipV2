@@ -36,7 +36,7 @@
       Player p1;
       PC p2;
       Graph g(10);
-      //newGame.mainMenu();
+      newGame.mainMenu();
       p1.placement(newGame);
       p2.randomPlacement(newGame);
 
